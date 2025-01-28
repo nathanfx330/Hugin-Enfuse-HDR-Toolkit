@@ -24,8 +24,6 @@ Before using the scripts, ensure you have the following installed:
 
 To install Python dependencies:
 
-pip install -r requirements.txt
-
 Install Hugin and Enfuse
 
     Hugin: Download from Hugin's official website or use your package manager (e.g., Homebrew on macOS, APT on Linux).
